@@ -1,7 +1,0 @@
-{
-    "files.associations": {
-        ".*lintrc": "json",
-        "queue": "cpp",
-        "vector": "cpp"
-    }
-}
